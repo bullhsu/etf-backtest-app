@@ -49,10 +49,10 @@ The strategy divides the portfolio into two parts:
 
 ## 📸 Screenshots / 介面預覽
 
-![主畫面](screenshots/demo01.jpg)
+![主畫面](screenshots/demo02.jpg)
 *策略參數設定與回測結果*
 
-![資產堆疊圖](screenshots/demo02.jpg)
+![資產堆疊圖](screenshots/demo01.jpg)
 *資產配置資金流向視覺化*
 
 ---
