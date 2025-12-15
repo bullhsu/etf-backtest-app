@@ -47,6 +47,16 @@ The strategy divides the portfolio into two parts:
 
 ---
 
+## 📸 Screenshots / 介面預覽
+
+![主畫面](screenshots/demo01.jpg)
+*策略參數設定與回測結果*
+
+![資產堆疊圖](screenshots/demo02.jpg)
+*資產配置資金流向視覺化*
+
+---
+
 ## ⚙️ Features / 功能特色
 
 * **Two Rebalancing Modes (兩種再平衡模式)**:
@@ -69,7 +79,7 @@ If you want to run this app on your own machine:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/bullhsu/etf-backtest-app.git](https://github.com/bullhsu/etf-backtest-app.git)
+    git clone https://github.com/bullhsu/etf-backtest-app.git
     cd etf-backtest-app
     ```
 
