@@ -69,7 +69,7 @@ If you want to run this app on your own machine:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/etf-backtest-app.git](https://github.com/YOUR_USERNAME/etf-backtest-app.git)
+    git clone [https://github.com/bullhsu/etf-backtest-app.git](https://github.com/bullhsu/etf-backtest-app.git)
     cd etf-backtest-app
     ```
 
